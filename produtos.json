@@ -1,11 +1,4 @@
-[
-    {
-        "id": 1,
-        "nome": "Whey Protein Isolate",
-        "preco": 189.90,
-        "categoria": "Proteínas",
-        "imagem": "https://images.unsplash.com/photo-1593095191071-837a598c8802?q=80&w=400&auto=format&fit=crop"
-    },
+
     {
         "id": 2,
         "nome": "Creatina Monohidratada",
